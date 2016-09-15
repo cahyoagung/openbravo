@@ -1,0 +1,2 @@
+Copy and replace this java file to
+	<openbravo_source>/
