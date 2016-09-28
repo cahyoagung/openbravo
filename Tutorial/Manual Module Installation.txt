@@ -1,0 +1,7 @@
+1. Extract the *.obx file to specified folder
+2. Copy the extracted file to 
+	<openbravo_source>/modules
+3. Run this command
+	$ ant update.database
+	$ ant compile.complete.deploy
+4. Start your tomcat
