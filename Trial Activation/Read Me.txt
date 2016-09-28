@@ -1,2 +1,0 @@
-Copy and replace this java file to
-	<openbravo_source_path>/src/org/openbravo/erpCommon/obps
