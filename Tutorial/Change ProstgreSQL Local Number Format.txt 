@@ -1,0 +1,10 @@
+1. Open postgresql.conf
+	$ sudo nano /etc/postgresql/9.5/main/postgresql.conf
+2. Find 'lc_numeric'
+	lc_numeric = 'id_ID.UTF-8'
+   changed to
+	lc_numeric = 'en_US.UTF-8'
+3. Prezz CTRL+X and pren Enter
+4. Restart postgresql service
+	$ sudo service postgresql restart
+
